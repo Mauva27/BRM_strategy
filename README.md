@@ -1,6 +1,5 @@
 # BRM strategy implemented in Ninjatrader
-
-[![version](https://img.shields.io/badge/release-v0.2.0-blue)](https://github.com/Mauva27/BRM_strategy/releases)
+[![version](https://img.shields.io/github/v/release/Mauva27/BRM_strategy?display_name=release)](https://github.com/Mauva27/BRM_strategy/releases)
 
 Algorithmic trading strategy for Ninjatrader based on the custom ```BRM``` (Basis, RSI, MACD) indicator. 
 
