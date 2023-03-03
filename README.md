@@ -4,7 +4,7 @@
 [![commits](https://img.shields.io/github/commit-activity/m/Mauva27/BRM_strategy?color=green)]()
 
 
-<img src="https://github.com/Mauva27/BRM_strategy/blob/main/examples/chart.png",height=300>
+<img src="https://github.com/Mauva27/BRM_strategy/blob/main/examples/chart.png" height=300>
 <!-- ![width=505](https://github.com/Mauva27/BRM_strategy/blob/main/examples/chart.png) -->
 
 Algorithmic trading strategy for Ninjatrader based on the custom ```BRM``` (Basis, RSI, MACD) indicator. 
